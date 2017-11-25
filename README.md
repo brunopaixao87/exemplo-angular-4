@@ -1,35 +1,36 @@
+Curso - udemy
+
 Meat - Angular Application
 
-Este respositório contém a implementação da aplicação feita no curso de Angular.
+    Este respositório contém a implementação da aplicação feita no curso de Angular.
 
 1. Passos para começar
 
-Instalando as Dependências
+    Instalando as Dependências
 
-npm install
+    npm install
 
-Inicializando o Servidor
+    Inicializando o Servidor
 
-ng serve ou npm start
+    ng serve ou npm start
 
 2. Iniciando o Backend
 
-Instalando o json-server
+    Instalando o json-server
 
-npm install -g json-server
+    npm install -g json-server
 
-Iniciando o serviço (raiz da aplicação)
+    Iniciando o serviço (raiz da aplicação)
 
-json-server db.json
+    json-server db.json
 
-Goodies
 
 Expressões regulares usadas na validação de formulários
 
-Email Regex
+    Email Regex
 
-/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i
+    /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i
 
-Number Regex
+    Number Regex
 
-/^[0-9]*$/
+    /^[0-9]*$/
